@@ -12,6 +12,10 @@
 
 ### [Snapper](https://github.com/ViviAshe/XIVSnapper)
 
+### [Brio](https://github.com/Etheirys/Brio)
+
+### [Ktisis](https://github.com/ktisis-tools/Ktisis)
+
 ## ACT
 
 ### [OverlayPlugin](https://github.com/OverlayPlugin/OverlayPlugin)
