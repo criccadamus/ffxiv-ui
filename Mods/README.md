@@ -16,6 +16,12 @@
 
 ### [Ktisis](https://github.com/ktisis-tools/Ktisis)
 
+### [HaselTweaks](https://github.com/Haselnussbomber/HaselTweaks)
+
+### [Loporrit](https://github.com/loporrit/LoporritSync)
+
+### [IINACT](https://github.com/marzent/IINACT)
+
 ## ACT
 
 ### [OverlayPlugin](https://github.com/OverlayPlugin/OverlayPlugin)
